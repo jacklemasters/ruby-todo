@@ -1,24 +1,20 @@
-# README
+# **Ruby on Rails toDo App**
+## Description 
+A simple toDo application used to learn Ruby on Rails <br>
+Add, delete, and view todo list.
+## Table of contents
+- [Description](#Description)
+- [Installation](#Installation)
+- [Contributors](#Contributors)
+- [Repository Link](#Repository)
+- [GitHub Info](#GitHub) 
+## Installation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Contributors
+Jackson LeMasters
+## Repository
+- [Project Repo](github.com/jacklemasters/ruby-todo)
+## GitHub
+![Image of me](https://avatars.githubusercontent.com/u/82251556?v=4)
+- Jackson LeMasters
+- [GitHub Profile](https://github.com/jacklemasters)
